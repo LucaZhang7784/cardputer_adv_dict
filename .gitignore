@@ -1,0 +1,19 @@
+# Private source dumps, import state and generated working data
+data/import/
+data/audio-models/
+data/sample/
+data/sample-built/
+data/device-backup/
+
+# Local runtime credentials, caches and editor state
+.env
+.env.*
+!.env.example
+.wrangler/
+node_modules/
+__pycache__/
+*.py[cod]
+
+# Local diagnostics
+glyph_check.txt
+data/audio-words-test.txt

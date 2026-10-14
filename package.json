@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "mpg123-decoder": "^0.4.8"
+  }
+}

@@ -1,0 +1,2 @@
+# Keep the complete US-English audio pack in Git LFS.
+data/audio/*.wav filter=lfs diff=lfs merge=lfs -text

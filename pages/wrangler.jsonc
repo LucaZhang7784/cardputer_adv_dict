@@ -1,0 +1,10 @@
+{
+  "name": "cardputer-dictionary",
+  "pages_build_output_dir": "./public",
+  "compatibility_date": "2026-10-13",
+  "d1_databases": [{
+    "binding": "DICTIONARY_DB",
+    "database_name": "cardputer-dictionary",
+    "database_id": "c5a4b930-7bc2-4ed8-93f8-29204025d2ee"
+  }]
+}

@@ -1,0 +1,35 @@
+{
+  "format": "cardputer-dict-local-v1",
+  "generated": "2026-10-14T05:42:38.955Z",
+  "enZh": {
+    "source": "ECDICT@bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "license": "MIT",
+    "attribution": "ECDICT (skywind3000/ECDICT), pinned commit bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "count": 768739,
+    "keyWidth": 104,
+    "indexRecordSize": 110,
+    "dataBytes": 38064476
+  },
+  "zhEn": {
+    "source": "CC-CEDICT@20261013",
+    "license": "CC BY-SA 4.0",
+    "attribution": "CC-CEDICT, MDBG snapshot 2026-10-13",
+    "count": 125264,
+    "keyWidth": 60,
+    "indexRecordSize": 66,
+    "dataBytes": 8089658,
+    "pinyin": {
+      "pinyinWidth": 68,
+      "headWidth": 60,
+      "indexRecordSize": 134,
+      "count": 125264
+    }
+  },
+  "sha256": {
+    "en-zh.idx": "e09641623fa19a5ecff94b135c9f5223561d66c64e2ed9696bfe202fd4ec26b7",
+    "en-zh.dat": "4f81eb5b497e94516c1911aa17901c8bad46885eb1e474d15d7193d84a28d7df",
+    "zh-en.idx": "658e0db926553ee2903f44bff369a3fffa0f4b6f68afb83ab962b5a61173aba0",
+    "zh-en.dat": "973cf679bab8fe5b8c27e00ca23d99f01ac20fc87c95ae9617f214e2bc9bc564",
+    "zh-en.pinyin.idx": "27076d5f81313b8c67ddd9a58c7042b5f0722d135642b084376917a362ebc979"
+  }
+}

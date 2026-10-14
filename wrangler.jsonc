@@ -1,0 +1,18 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "cardputer-dictionary",
+  "main": "src/index.js",
+  "compatibility_date": "2026-10-13",
+  "workers_dev": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DICTIONARY_DB",
+      "database_name": "cardputer-dictionary",
+      "database_id": "c5a4b930-7bc2-4ed8-93f8-29204025d2ee",
+      "migrations_dir": "migrations"
+    }
+  ]
+}
